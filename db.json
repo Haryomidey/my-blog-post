@@ -1,0 +1,10 @@
+{
+  "posts": [
+    {
+      "title": "My Second Blog",
+      "body": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Laborum officia quam repellendus fuga provident praesentium earum quaerat vitae quos ipsum commodi porro ut necessitatibus est repudiandae corrupti dolore possimus, nihil hic. Deserunt aut odit fugit ipsa iste, cum error voluptas!",
+      "author": "Lekan",
+      "id": 2
+    }
+  ]
+}
